@@ -4,13 +4,6 @@ on: [push, pull_request]
 
 jobs:
   build:
-<<<<<<< HEAD
-    name: Build step
-    runs-on: ubuntu-latest
-    steps:
-      - name: run example
-        run: echo "build step"
-=======
     name: Build
     runs-on: ubuntu-latest
 
@@ -31,4 +24,3 @@ jobs:
 
       - name: Install
         run: cmake --build _build --target install DESTDIR=_install
->>>>>>> 570cd24 (fix: add proper CI/CD workflow for lab04)
