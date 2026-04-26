@@ -1,0 +1,14 @@
+/home/zotov/workspace/tasks/lab04/_install/lib/libformatter.a
+/home/zotov/workspace/tasks/lab04/_install/include/formatter.h
+/home/zotov/workspace/tasks/lab04/_install/cmake/formatter-config.cmake
+/home/zotov/workspace/tasks/lab04/_install/cmake/formatter-config-noconfig.cmake
+/home/zotov/workspace/tasks/lab04/_install/lib/libformatter_ex.a
+/home/zotov/workspace/tasks/lab04/_install/include/formatter_ex.h
+/home/zotov/workspace/tasks/lab04/_install/cmake/formatter_ex-config.cmake
+/home/zotov/workspace/tasks/lab04/_install/cmake/formatter_ex-config-noconfig.cmake
+/home/zotov/workspace/tasks/lab04/_install/bin/hello_world
+/home/zotov/workspace/tasks/lab04/_install/lib/libsolver_lib.a
+/home/zotov/workspace/tasks/lab04/_install/include/solver.h
+/home/zotov/workspace/tasks/lab04/_install/cmake/solver_lib-config.cmake
+/home/zotov/workspace/tasks/lab04/_install/cmake/solver_lib-config-noconfig.cmake
+/home/zotov/workspace/tasks/lab04/_install/bin/solver
