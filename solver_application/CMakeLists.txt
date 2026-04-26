@@ -4,8 +4,10 @@ project(solver)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-install(TARGETS solver DESTINATION bin)
+
 
 add_executable(solver equation.cpp)
 
 target_link_libraries(solver PRIVATE formatter_ex solver_lib)
+
+install(TARGETS solver DESTINATION bin)
